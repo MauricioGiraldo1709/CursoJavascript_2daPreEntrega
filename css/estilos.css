@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.titulo{
+    text-align: center;
+    margin-bottom: 30px;
+    margin-top: 15px;
+}
+
+.sectionServicios{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+img{
+    height: 300px;
+    width: 350px;
+    border-radius: 15px;
+}
+
+.item{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
