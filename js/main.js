@@ -1,11 +1,5 @@
 let total = 0;
 
-// //FUNCIÓN DE ORDEN SUPERIOR 
-// function funcion_principal(funcion, parametro) {
-//     let resultado = funcion(parametro);
-//     return resultado;
-//   }
-
 // FUNCIÓN PARA PEDIR DATOS DEL CLIENTE
 function datosDeCliente(){
     let nombre = prompt('Ingrese su nombre: ');
